@@ -1,25 +1,27 @@
 # Alexandru Popa — Developer Portfolio
 
-> **Notă**: Acest website este un template/demo cu date fictive. Poate fi personalizat pentru orice dezvoltator.
+> **Note**: This website is a template/demo with fictional data. It can be customized for any developer.
+
+[🌐 View live demo](https://iam269.github.io/portofoliuanimation/)
 
 ![Screenshot](screen.png)
 
-Portofoliu personal dezvoltat de Alexandru Popa, dezvoltator full-stack cu peste 10 ani de experiență.
+Personal portfolio developed by Alexandru Popa, a full-stack developer with over 10 years of experience.
 
-## Descriere
+## Description
 
-Acest portofoliu este o **prezentare interactivă** a experienței și proiectelor mele ca dezvoltator full-stack. Conceput cu atenție la detalii, combină **estetică modernă** cu **performanță optimă** pentru a oferi o experiență de navigare memorabilă.
+This portfolio is an **interactive presentation** of my experience and projects as a full-stack developer. Designed with attention to detail, it combines **modern aesthetics** with **optimal performance** to provide a memorable browsing experience.
 
-## Caracteristici Principale
+## Key Features
 
-- **Cursor Personalizat** — Cursor custom cu efect de trail pentru o experiență interactivă și unică
-- **Efecte Vizuale** — Scanlines, noise overlay și glow effects pentru aspect retro-futurist
-- **Terminal Interactiv** — Simulare de terminal în secțiunea Despre cu comenzi și output animat
-- **Typewriter Effect** — Efect de scriere automată în secțiunea hero pentru afișarea titlurilor
-- **Design Responsiv** — Optimizat pentru toate dispozitivele, de la mobile la desktop
-- **Performanță** — Cod optimizat, încărare rapidă și animații line la 60fps
+- **Custom Cursor** — Custom cursor with trail effect for a unique interactive experience
+- **Visual Effects** — Scanlines, noise overlay and glow effects for a retro-futuristic look
+- **Interactive Terminal** — Terminal simulation in the About section with animated commands and output
+- **Typewriter Effect** — Automatic typing effect in the hero section for displaying titles
+- **Responsive Design** — Optimized for all devices, from mobile to desktop
+- **Performance** — Optimized code, fast loading and smooth animations at 60fps
 
-## Tehnologii Folosite
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -30,14 +32,14 @@ Acest portofoliu este o **prezentare interactivă** a experienței și proiectel
 - Responsive Design
 - Dark Theme
 
-## Structura
+## Structure
 
-- Hero — Introducere și titlu principal
-- Despre — Informații despre mine
-- Despre acest portofoliu — Detalii despre acest proiect
-- Stack tehnic — Abilități și tehnologii
-- Proiecte — Portofoliu de proiecte finalizate
-- Contact — Formular de contact și link-uri sociale
+- Hero — Introduction and main title
+- About — Information about me
+- About this portfolio — Details about this project
+- Skills — Abilities and technologies
+- Projects — Portfolio of completed projects
+- Contact — Contact form and social links
 
 ## License
 
