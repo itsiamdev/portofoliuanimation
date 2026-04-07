@@ -2,7 +2,7 @@
 
 > **Note**: This website is a template/demo with fictional data. It can be customized for any developer.
 
-[🌐 View live demo](https://iam269.github.io/portofoliuanimation/)
+[🌐 View live demo](https://itsiamdev.github.io/portofoliuanimation/)
 
 ![Screenshot](screen.png)
 
